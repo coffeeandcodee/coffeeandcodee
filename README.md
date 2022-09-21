@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coffeeandcodee
-- 👀 I’m interested in web development and data science.
+- 👀 I’m interested in full stack development, artificial intelligence & data science.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any interesting front end projects
 - 📫 You can reach me via email a9idris@gmail.com
